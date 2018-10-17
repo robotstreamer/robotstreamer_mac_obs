@@ -18,8 +18,11 @@ the instructions for the osx app...
 -- server: rtmp://localhost/live
 -- streamkey: cam
 - obs click: start streaming
+
 obs ->  rtmp -> pippy-app (ffmpeg) ->  robotstreamer
+
 every time you change settings in the pippy-app you have to restart it to make them work
+
 it uses apples terminalsay to speak.. get all voices with say -v '?'
 
 
