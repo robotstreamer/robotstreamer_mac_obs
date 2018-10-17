@@ -29,3 +29,5 @@ it uses apples terminalsay to speak.. get all voices with say -v '?'
 https://drive.google.com/file/d/1ibobaPBQFIvx5Q9_fz295ZW9K9Ua-_qk/view?usp=sharing
 
 
+
+https://raw.githubusercontent.com/robotstreamer/robotstreamer_mac_obs/master/obs.png
