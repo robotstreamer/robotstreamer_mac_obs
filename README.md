@@ -4,7 +4,7 @@ You'll need robot id, camera id, and stream key. After registering at robotstrea
 
 http://www.robotstreamer.com/new_stream.html
 
-Fill in your stream name and submit.
+Fill in the name for the stream like JohnCam example and press submit.
 
 Save all the id's and stream key.
 
