@@ -1,16 +1,5 @@
 # robotstreamer_mac_obs
-
-You'll need robot id, camera id, and stream key. After registering at robotstreamer.com (if needed) and logging in, you can visit this link to create your new stream. You'll need to give it a name that identifies the stream, like JohnCam for example.
-
-
-http://www.robotstreamer.com/new_stream.html
-
-Fill in the name for the stream like JohnCam example and press submit.
-
-Save all the id's and stream key.
-
-Now you can start installing:
-
+xxxxxxxxxxxxxxxxxxxxx
 
 code for running obs and connecting to robotstreamer.com on mac
 
