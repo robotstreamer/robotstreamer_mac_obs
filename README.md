@@ -1,5 +1,4 @@
 # robotstreamer_mac_obs
-xxxxxxxxxxxxxxxxxxxxx
 
 code for running obs and connecting to robotstreamer.com on mac
 
