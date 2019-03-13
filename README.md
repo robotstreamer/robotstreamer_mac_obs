@@ -2,7 +2,7 @@
 
 code for running obs and connecting to robotstreamer.com on mac
 
-[robotstreamer obs mac zip file](https://drive.google.com/file/d/1De9IpH-Qg7rfuLWMf1GT2iW8v4xSoq2t/view?usp=sharing)
+[robotstreamer obs mac zip file](https://storage.googleapis.com/robotstreamer/rsmacobs.zip)
 
 
 the instructions for the osx app...
